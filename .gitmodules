@@ -2,3 +2,7 @@
 	path = Sherlock
 	url = https://gin.g-node.org/ljchang/Sherlock
 	datalad-id = 3b526eee-c83e-11e9-8ed7-5160545baf59
+[submodule "Paranoia"]
+	path = Paranoia
+	url = https://gin.g-node.org/ljchang/Paranoia
+	datalad-id = 62c877f8-30a8-11e9-947c-80000208fe80
